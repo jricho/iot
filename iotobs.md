@@ -8,22 +8,22 @@
 
 ## Observations and Recommendations - IoT Mars Rover project ##
 
-## Observations ##
+### Observations ###
 
-### Current tooling ###
+#### Current tooling ####
 
 slack, zoom, github, trello, atom, vscode, troubleshoot and other stuff in word document on onedrive, code documentation on github.  test suite is a series of test scripts (unit and integration)
 
-### Languages ###
+#### Languages ####
 
 Python, bash (telemetry), Pulse uses bash, json
 
-### Current Git strategy ###
+#### Current Git strategy ####
 
 Git branching is used for storing code for different run environments since theb configuration is stored in code.
 Peer review, offline PR reviews: minimal.
 
-### Deploy process ###
+#### Deploy process ####
 
 1. ssh to pi
 2. git on pi
@@ -33,7 +33,7 @@ Peer review, offline PR reviews: minimal.
 need to use git ignore for cache files (what other files need to be removed?)
 6. develop on laptop then push to staging, pull to pi
 
-## Recommendations ##
+### Recommendations ###
 
 For the collaboration work, the most immediate items for workflow improvement would be:
 
