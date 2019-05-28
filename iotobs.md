@@ -14,22 +14,22 @@
 
 #### Current tooling ####
 
-..* slack
-..* zoom
-..* github
-..* trello
-..* atom
-..* vscode
-..* troubleshoot and other stuff in word document on onedrive
-..* code documentation on github
-..* test suite is a series of test scripts (unit and integration)
+* slack
+* zoom
+* github
+* trello
+* atom
+* vscode
+* troubleshoot and other stuff in word document on onedrive
+* code documentation on github
+* test suite is a series of test scripts (unit and integration)
 
 #### Languages ####
 
-..* Python
-..* bash (telemetry)
-..* Pulse uses bash
-..* JSON
+* Python
+* bash (telemetry)
+* Pulse uses bash
+* JSON
 
 #### Current Git strategy ####
 
