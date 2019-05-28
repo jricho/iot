@@ -2,9 +2,11 @@
 
 ## MARS Infrastructure Project TK-18/A ##
 
+![logo](images/falconeye.png)
+
 > Early Warning and Reconnaissance Platform | Objective - Enhance Crew Survivability
 
-![Rover scale model](images/rover.png) ![logo](images/falconeye.png)
+![Rover scale model](images/rover.png)
 
 ## Observations and Recommendations - IoT Mars Rover project ##
 
