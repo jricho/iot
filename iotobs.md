@@ -4,7 +4,7 @@
 
 > Early Warning and Reconnaissance Platform | Objective - Enhance Crew Survivability
 
-![Rover scale model](rover.png)
+![Rover scale model](images/rover.png)
 
 ## Observations and Recommendations - IoT Mars Rover project ##
 
