@@ -1,4 +1,10 @@
-# Observations and Recommendations - IoT Mars Rover project #
+# Project Overview #
+
+## MARS Infrastructure Project TK-18/A ##
+
+> Early Warning and Reconnaissance Platform | Objective - Enhance Crew Survivability
+
+## Observations and Recommendations - IoT Mars Rover project ##
 
 ## Observations ##
 
@@ -38,7 +44,7 @@ For the collaboration work, the most immediate items for workflow improvement wo
 
 A joint meeting to demo the first three items in action would be good.  
 
-Here are some raw notes:
+Other notes:
 
 - Need to figure out product backlog and scrum roles
 - Is there a list of documentation?  Seems spread over a few places, need to consolidate
