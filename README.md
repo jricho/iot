@@ -6,4 +6,5 @@
 
 The below diagram illustrates the sub-directory layout for this repo, and is representative of the structure that is being recommended for the master project.
 
+
 ![subdirectory layout](images/subdir.png)
