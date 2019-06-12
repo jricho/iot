@@ -15,9 +15,12 @@ Recommended Extensions
 
 ### Version Control ###
 
-If you have not already done so, you will need to install Git on your local computer and sign up for a free GitHub account. Downloads and instructions can be found at these links.
+If you have not already done so, you will need to install Git on your local computer.
 
 [Download and instructions for installing Git](https://git-scm.com/downloads)
+
+Following that, you will need to sign up for a free GitHub account
+
 [Sign up for a free GitHub account](https://github.com/)
 
 Once you have Git installed locally and have each created GitHub accounts. You are ready to start.
