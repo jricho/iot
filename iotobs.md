@@ -33,7 +33,7 @@
 
 #### Current Git strategy ####
 
-Git branching is used for storing code for different run environments since theb configuration is stored in code.
+Git branching is used for storing code for different run environments since the configuration is stored in code.
 Peer review, offline PR reviews: minimal.
 
 #### Deploy process ####
@@ -56,8 +56,8 @@ For the collaboration work, the most immediate items for workflow improvement wo
 4. Decide who a product owner should be. The product owner cannot be in the dev team.  Adam is a great candidate.
 5. Create a backlog and have the product owner prioritise the items
 6. Not a must but it can help create some order: setup sprints at regular intervals so it is understood what items from the backlog are in active development.
-
-A joint meeting to demo the first three items in action would be good.  
+7. Documentation: use Markdown to generate documentation, to allow this documentation to be checked into the source code repository.
+8. Continuous Integration: Investigate the use of a CI system to handle unit testing automatically as part of a pipeline process.
 
 Other notes:
 
