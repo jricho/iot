@@ -11,9 +11,6 @@ The 4 main methods for seperating config from code include;
 - Using environment variables
 - Using dynamic loading
 
-> [!IMPORTANT]
-> This is IMPORTANT
-
 ## Store config in the environment ##
 
 An app’s config is everything that is likely to vary between deploys (staging, production, developer environments, etc). This includes:
@@ -25,6 +22,6 @@ An app’s config is everything that is likely to vary between deploys (staging,
 
 A litmus test for whether an app has all config correctly factored out of the code is whether the codebase could be made open source at any moment, without compromising any credentials.
 
-**The twelve-factor app** stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally; and unlike custom config files, or other config mechanisms such as Java System Properties, they are a language- and OS-agnostic standard.## The Twelve Factor App ##
+**The twelve-factor app** stores config in environment variables (often shortened to env vars or env). Env vars are easy to change between deploys without changing any code; unlike config files, there is little chance of them being checked into the code repo accidentally; and unlike custom config files, or other config mechanisms.
 
 <https://12factor.net>
