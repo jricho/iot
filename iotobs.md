@@ -50,7 +50,7 @@ need to use git ignore for cache files (what other files need to be removed?)
 
 For the collaboration work, the most immediate items for workflow improvement would be:
 
-1. Version Control: Switch to trunk based development for releases and use short lived branches for new features
+1. [Version Control](https://github.com/jricho/iot/blob/master/vcs/vcs.md): Switch to trunk based development for releases and use short lived branches for new features
 2. [12 Factor](https://github.com/jricho/iot/blob/master/12factor/12factor.md): Separate config from code. This will aid with point 1. Pull all configuration from the code base and have those values generated via other means such as config files, environment variables, command-line flags.
 3. [Unit Testing](https://github.com/jricho/iot/blob/master/testing/testing.md): Python has unit testing capabilities and this can be used to verify the codebase is working as intended. I would not recommend to go over-board with unit testing every function though, preferably scope the unit testing to package level. By using unit tests and test matrices, the IoT team can have confidence when they start the work on item 2.
 4. Decide who a product owner should be. The product owner cannot be in the dev team.
