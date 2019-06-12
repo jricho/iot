@@ -40,4 +40,4 @@ A unit test is a scripted code level test designed in Python to verify a small "
 
 It is recommended that unit testing and a test matrix be created at a minimum on the package level.
 
-[Unit testing example][![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://www.youtube.com/watch?v=1Lfv5tUGsn8/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+[![Unit testing example](http://img.youtube.com/vi/https://www.youtube.com/watch?v=1Lfv5tUGsn8/0.jpg)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=1Lfv5tUGsn8)
