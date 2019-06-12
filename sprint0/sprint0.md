@@ -24,3 +24,13 @@ Following that, you will need to sign up for a free GitHub account
 [Sign up for a free GitHub account](https://github.com/)
 
 Once you have Git installed locally and have each created GitHub accounts. You are ready to start.
+
+### Kanban ###
+
+Recommend using Trello to create Product backlog
+
+### Collaboration ###
+
+Recommend continuing to use Slack for team collaboration
+
+channel name - anz_vt_iot
