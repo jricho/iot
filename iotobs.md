@@ -54,7 +54,7 @@ For the collaboration work, the most immediate items for workflow improvement wo
 2. [12 Factor](https://github.com/jricho/iot/blob/master/12factor/12factor.md): Separate config from code. This will aid with point 1. Pull all configuration from the code base and have those values generated via other means such as config files, environment variables, command-line flags.
 3. [Unit Testing](https://github.com/jricho/iot/blob/master/testing/testing.md): Python has unit testing capabilities and this can be used to verify the codebase is working as intended. I would not recommend to go over-board with unit testing every function though, preferably scope the unit testing to package level. By using unit tests and test matrices, the IoT team can have confidence when they start the work on item 2.
 4. Decide who a product owner should be. The product owner cannot be in the dev team.
-5. Create a backlog and have the product owner prioritise the items
+5. [Create a backlog](https://github.com/jricho/iot/blob/master/product/product.md) and have the product owner prioritise the items
 6. Not a must but it can help create some order: setup sprints at regular intervals so it is understood what items from the backlog are in active development.
 7. [Documentation](https://github.com/jricho/iot/blob/master/documentation/doco.md): use Markdown to generate documentation, to allow this documentation to be checked into the source code repository.
 8. Continuous Integration: Investigate the use of a CI system to handle unit testing automatically as part of a pipeline process.
