@@ -33,4 +33,4 @@ Recommend using Trello to create Product backlog
 
 Recommend continuing to use Slack for team collaboration
 
-channel name - anz_vt_iot
+channel name - **anz_vt_iot**

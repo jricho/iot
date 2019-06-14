@@ -1,4 +1,19 @@
-# Code Quality #
+# Automated Testing #
+
+Automated testing is essential to lean software development. There are many different types of tests that fall under the banner of automated testing. Many, if not all, have a certain place and optimal inclusion point in the build process and should be considered carefully. Automated testing includes:
+
+* Unit testing
+* Integration testing
+* Smoke testing
+* Acceptance testing
+* Performance testing
+* Load testing
+* Executable specifications testing
+* Story testing
+* Test-first and test-driven development
+* Behavior-driven development
+
+## Code Quality ##
 
 * It does what it is supposed to do.
 * It does not contain defects or problems.
