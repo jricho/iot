@@ -15,3 +15,11 @@ Version control is the first prerequisite, or zero practice, described because i
 <https://realpython.com/python-git-github-intro/>
 
 <https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281>
+
+<https://www.atlassian.com/git/tutorials/what-is-version-control>
+
+## Branching Strategy ##
+
+> This is important and needs to be decided before commencing any development work.
+
+<https://trunkbaseddevelopment.com/short-lived-feature-branches/>
