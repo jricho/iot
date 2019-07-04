@@ -93,7 +93,7 @@ $ git push --delete origin *yourname*
 
 And that’s it! You’ve just successfully created a feature branch, made some changes, committed those changes to your repository, pushed them to GitHub, opened a pull request, had your changes merged by the maintainers, and then cleaned up.
 
-##Step 5 - Keeping your Fork in Sync##
+**Step 5 - Keeping your Fork in Sync**
 
 By the way, your forked repository doesn’t automatically stay in sync with the original repository; you need to take care of this yourself. After all in a healthy open source project, multiple contributors are forking the repository, cloning it, creating feature branches, committing changes, and submitting pull requests.
 
